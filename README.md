@@ -1,4 +1,5 @@
 # 帮助教程
+部署：https://vercel.com/jupaladins-projects/notion-next/deployments
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/) 
 
